@@ -36,7 +36,8 @@ Listed below are the pages users of **PayWayz** should be able to visit. The app
     - [] send notice to end lease
     - [] post messages to the park
 - [] create apartment signup page
-    - [] apartment name, number of units, owner, company name, office address, office phone, office city, office state, office zipcode
+    - [] apartment name, number of units, owner, company name, office address, office phone, office city, office state, office zipcode, office email
 - [] create login page for admins
 - [] create login page for tenats
 - [] create signup page for tenats
+    - [] registration code, unit number, email, phone, name
