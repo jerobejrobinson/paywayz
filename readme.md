@@ -28,6 +28,7 @@ Listed below are the pages users of **PayWayz** should be able to visit. The app
     - [] charts | rent paid, rent unpaid, number of WOs
     - [] create site managers accounts
     - [] create registration code to send to tenats that will allow them to create their own account
+    - [] see vacant units
 - [] create tenat dashboard
     - [] make payment on balance
     - [] view payment history
@@ -35,6 +36,7 @@ Listed below are the pages users of **PayWayz** should be able to visit. The app
     - [] send notice to end lease
     - [] post messages to the park
 - [] create apartment signup page
+    - [] apartment name, number of units, owner, company name, office address, office phone, office city, office state, office zipcode
 - [] create login page for admins
 - [] create login page for tenats
 - [] create signup page for tenats
