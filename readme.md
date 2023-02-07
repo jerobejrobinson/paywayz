@@ -22,7 +22,18 @@ Listed below are the pages users of **PayWayz** should be able to visit. The app
 # Tasklist
 - [] create admin dashboard
     - [] view tenats who haven't made payments for current month
+    - [] make posts to community bulletin board
+    - [] view work order requests
+    - [] update work order requests
+    - [] charts | rent paid, rent unpaid, number of WOs
+    - [] create site managers accounts
+    - [] create registration code to send to tenats that will allow them to create their own account
 - [] create tenat dashboard
+    - [] make payment on balance
+    - [] view payment history
+    - [] submit work order requests
+    - [] send notice to end lease
+    - [] post messages to the park
 - [] create apartment signup page
 - [] create login page for admins
 - [] create login page for tenats
