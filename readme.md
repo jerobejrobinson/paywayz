@@ -18,3 +18,11 @@ allow neighbors to post to a public forum call parks.
 # Pages
 Listed below are the pages users of **PayWayz** should be able to visit. The app will be divided into three areas. **Admin Dashboard** - an area where managers can manage tenats, post messages to a community board, and get alerts on unpaid accounts. **Tenat Dashbaord** - an area where tenats make payments on due rent, submit work order requests, and end lease. **Apartment Signup** - this page is where apartment managers can submit their community to *PayWayz*. Here they will upload required documents to verify the community and be given access to platform that will allow their tenats to signup for accounts.
 
+---
+# Tasklist
+- [] create admin dashboard
+- [] create tenat dashboard
+- [] create apartment signup page
+- [] create login page for admins
+- [] create login page for tenats
+- [] create signup page for tenats
