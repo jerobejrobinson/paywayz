@@ -21,6 +21,7 @@ Listed below are the pages users of **PayWayz** should be able to visit. The app
 ---
 # Tasklist
 - [] create admin dashboard
+    - [] view tenats who haven't made payments for current month
 - [] create tenat dashboard
 - [] create apartment signup page
 - [] create login page for admins
